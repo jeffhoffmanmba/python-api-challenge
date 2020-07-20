@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+![Alt text](http://full/path/to/img.jpg "Equator")
 
 ### Before You Begin
 
