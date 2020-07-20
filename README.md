@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![alt test](https://github.com/jeffhoffmanmba/python-challenge/blob/master/PyBank/Resources/revenue-per-lead.png)
+![alt test](https://github.com/jeffhoffmanmba/python-api-challenge/blob/master/starter_code/equatorsign.png)
 
 ### Before You Begin
 
